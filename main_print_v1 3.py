@@ -1,6 +1,8 @@
+# main_print_v1.py
 
-name = "Jeong-Hyun Yu"
-age = 20
+# 변수 선언
+name = "Alice"
+age = 25
 score = 95.5
 
 # 1. 기본 출력

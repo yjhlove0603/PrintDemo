@@ -1,0 +1,23 @@
+# 파일
+main_print_v1 3.py
+*.avi
+
+#파일
+main_print_v1.ipynb
+*.avi
+
+# 파일
+main_print_v2.py
+*avi
+
+# 파일
+README 333.3.md
+*avi
+
+# 파일
+requirements.txt
+*.avi
+
+# 폴더
+venv/
+.vscode
